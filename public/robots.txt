@@ -1,0 +1,4 @@
+# Decisao de Fase 0 (ver development/decisoes.md):
+# handbook de notas de estudo, acessivel por link mas nao indexado.
+User-agent: *
+Disallow: /
